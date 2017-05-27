@@ -22,7 +22,7 @@
   "authentication"
 ],
   "dependencies": {
-    "ldapjs-hotfix": "0.7.3"
+    "ldapjs-hotfix": "mcavage/node-ldapjs"
   },
   "analyze": true,
   "license": "MIT"
